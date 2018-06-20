@@ -1,0 +1,1349 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2018-06-20T18:29:06.848+09:00
+  initializedAtString: 2018-06-20T18:20:34.914+09:00
+  entries:
+  - path: .vs\Planet\DesignTimeBuild\.dtbcache
+    fullPath: C:\Unity\Planet\.vs\Planet\DesignTimeBuild\.dtbcache
+    projectPath: .vs\Planet\DesignTimeBuild\.dtbcache
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: .vs\Planet\v15\.suo
+    fullPath: C:\Unity\Planet\.vs\Planet\v15\.suo
+    projectPath: .vs\Planet\v15\.suo
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: .vs\Planet\v15\Server\sqlite3\db.lock
+    fullPath: C:\Unity\Planet\.vs\Planet\v15\Server\sqlite3\db.lock
+    projectPath: .vs\Planet\v15\Server\sqlite3\db.lock
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: .vs\Planet\v15\Server\sqlite3\storage.ide
+    fullPath: C:\Unity\Planet\.vs\Planet\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\Planet\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Planet.unity
+    fullPath: C:\Unity\Planet\Assets\Planet.unity
+    projectPath: Assets\Planet.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Player.cs.meta
+    fullPath: C:\Unity\Planet\Assets\Player.cs.meta
+    projectPath: Assets\Player.cs.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Unity\Planet\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: C:\Unity\Planet\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\CurrentLayout.dwlt
+    fullPath: C:\Unity\Planet\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: C:\Unity\Planet\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\expandedItems
+    fullPath: C:\Unity\Planet\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Unity\Planet\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Unity\Planet\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Unity\Planet\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Unity\Planet\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Unity\Planet\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Unity\Planet\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Unity\Planet\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: C:\Unity\Planet\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000002000000000000000
+    fullPath: C:\Unity\Planet\Library\metadata\00\00000000000000002000000000000000
+    projectPath: Library\metadata\00\00000000000000002000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000003000000000000000
+    fullPath: C:\Unity\Planet\Library\metadata\00\00000000000000003000000000000000
+    projectPath: Library\metadata\00\00000000000000003000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000004000000000000000
+    fullPath: C:\Unity\Planet\Library\metadata\00\00000000000000004000000000000000
+    projectPath: Library\metadata\00\00000000000000004000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000004100000000000000
+    fullPath: C:\Unity\Planet\Library\metadata\00\00000000000000004100000000000000
+    projectPath: Library\metadata\00\00000000000000004100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000005100000000000000
+    fullPath: C:\Unity\Planet\Library\metadata\00\00000000000000005100000000000000
+    projectPath: Library\metadata\00\00000000000000005100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000006000000000000000
+    fullPath: C:\Unity\Planet\Library\metadata\00\00000000000000006000000000000000
+    projectPath: Library\metadata\00\00000000000000006000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000006100000000000000
+    fullPath: C:\Unity\Planet\Library\metadata\00\00000000000000006100000000000000
+    projectPath: Library\metadata\00\00000000000000006100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000007000000000000000
+    fullPath: C:\Unity\Planet\Library\metadata\00\00000000000000007000000000000000
+    projectPath: Library\metadata\00\00000000000000007000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000007100000000000000
+    fullPath: C:\Unity\Planet\Library\metadata\00\00000000000000007100000000000000
+    projectPath: Library\metadata\00\00000000000000007100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000008000000000000000
+    fullPath: C:\Unity\Planet\Library\metadata\00\00000000000000008000000000000000
+    projectPath: Library\metadata\00\00000000000000008000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000009000000000000000
+    fullPath: C:\Unity\Planet\Library\metadata\00\00000000000000009000000000000000
+    projectPath: Library\metadata\00\00000000000000009000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000a000000000000000
+    fullPath: C:\Unity\Planet\Library\metadata\00\0000000000000000a000000000000000
+    projectPath: Library\metadata\00\0000000000000000a000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000a100000000000000
+    fullPath: C:\Unity\Planet\Library\metadata\00\0000000000000000a100000000000000
+    projectPath: Library\metadata\00\0000000000000000a100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000b000000000000000
+    fullPath: C:\Unity\Planet\Library\metadata\00\0000000000000000b000000000000000
+    projectPath: Library\metadata\00\0000000000000000b000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000c000000000000000
+    fullPath: C:\Unity\Planet\Library\metadata\00\0000000000000000c000000000000000
+    projectPath: Library\metadata\00\0000000000000000c000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: C:\Unity\Planet\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    fullPath: C:\Unity\Planet\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\0c\0ce1eaf7264d543409920c51563914dd
+    fullPath: C:\Unity\Planet\Library\metadata\0c\0ce1eaf7264d543409920c51563914dd
+    projectPath: Library\metadata\0c\0ce1eaf7264d543409920c51563914dd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\0c\0ce1eaf7264d543409920c51563914dd.info
+    fullPath: C:\Unity\Planet\Library\metadata\0c\0ce1eaf7264d543409920c51563914dd.info
+    projectPath: Library\metadata\0c\0ce1eaf7264d543409920c51563914dd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: C:\Unity\Planet\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    fullPath: C:\Unity\Planet\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    fullPath: C:\Unity\Planet\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    fullPath: C:\Unity\Planet\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    fullPath: C:\Unity\Planet\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    fullPath: C:\Unity\Planet\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    fullPath: C:\Unity\Planet\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    fullPath: C:\Unity\Planet\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    fullPath: C:\Unity\Planet\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    fullPath: C:\Unity\Planet\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    fullPath: C:\Unity\Planet\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: C:\Unity\Planet\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    fullPath: C:\Unity\Planet\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: C:\Unity\Planet\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\2a\2a194fda168e2894a8a24d6a28c44f40
+    fullPath: C:\Unity\Planet\Library\metadata\2a\2a194fda168e2894a8a24d6a28c44f40
+    projectPath: Library\metadata\2a\2a194fda168e2894a8a24d6a28c44f40
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\33\3373e27d5f121094a97dc03a634a23cc
+    fullPath: C:\Unity\Planet\Library\metadata\33\3373e27d5f121094a97dc03a634a23cc
+    projectPath: Library\metadata\33\3373e27d5f121094a97dc03a634a23cc
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d.info
+    fullPath: C:\Unity\Planet\Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d.info
+    projectPath: Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\45\45989f9eb57d6684a80f8eb3f3969edf
+    fullPath: C:\Unity\Planet\Library\metadata\45\45989f9eb57d6684a80f8eb3f3969edf
+    projectPath: Library\metadata\45\45989f9eb57d6684a80f8eb3f3969edf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\45\45989f9eb57d6684a80f8eb3f3969edf.info
+    fullPath: C:\Unity\Planet\Library\metadata\45\45989f9eb57d6684a80f8eb3f3969edf.info
+    projectPath: Library\metadata\45\45989f9eb57d6684a80f8eb3f3969edf.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: C:\Unity\Planet\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    fullPath: C:\Unity\Planet\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\49\49df4ba02047b6a43893405c800fc7ba
+    fullPath: C:\Unity\Planet\Library\metadata\49\49df4ba02047b6a43893405c800fc7ba
+    projectPath: Library\metadata\49\49df4ba02047b6a43893405c800fc7ba
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\55\559a73dc43770844bb81d85ec0876d47
+    fullPath: C:\Unity\Planet\Library\metadata\55\559a73dc43770844bb81d85ec0876d47
+    projectPath: Library\metadata\55\559a73dc43770844bb81d85ec0876d47
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\5c\5ca9d6badfbae6c44a7e619eab6c5eb3
+    fullPath: C:\Unity\Planet\Library\metadata\5c\5ca9d6badfbae6c44a7e619eab6c5eb3
+    projectPath: Library\metadata\5c\5ca9d6badfbae6c44a7e619eab6c5eb3
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    fullPath: C:\Unity\Planet\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    fullPath: C:\Unity\Planet\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\65\6597c6ea86d36477081342001145d8d9.info
+    fullPath: C:\Unity\Planet\Library\metadata\65\6597c6ea86d36477081342001145d8d9.info
+    projectPath: Library\metadata\65\6597c6ea86d36477081342001145d8d9.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    fullPath: C:\Unity\Planet\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    fullPath: C:\Unity\Planet\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    fullPath: C:\Unity\Planet\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    fullPath: C:\Unity\Planet\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\78\78fb109f9ac606a47bf7a1debcc10ee2
+    fullPath: C:\Unity\Planet\Library\metadata\78\78fb109f9ac606a47bf7a1debcc10ee2
+    projectPath: Library\metadata\78\78fb109f9ac606a47bf7a1debcc10ee2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\78\78fb109f9ac606a47bf7a1debcc10ee2.info
+    fullPath: C:\Unity\Planet\Library\metadata\78\78fb109f9ac606a47bf7a1debcc10ee2.info
+    projectPath: Library\metadata\78\78fb109f9ac606a47bf7a1debcc10ee2.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    fullPath: C:\Unity\Planet\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    fullPath: C:\Unity\Planet\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    fullPath: C:\Unity\Planet\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    fullPath: C:\Unity\Planet\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\86c18994495874297b469aaa57ef9b44.info
+    fullPath: C:\Unity\Planet\Library\metadata\86\86c18994495874297b469aaa57ef9b44.info
+    projectPath: Library\metadata\86\86c18994495874297b469aaa57ef9b44.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\94\9466e99bc691294498326f17f42f129c
+    fullPath: C:\Unity\Planet\Library\metadata\94\9466e99bc691294498326f17f42f129c
+    projectPath: Library\metadata\94\9466e99bc691294498326f17f42f129c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\94\9466e99bc691294498326f17f42f129c.info
+    fullPath: C:\Unity\Planet\Library\metadata\94\9466e99bc691294498326f17f42f129c.info
+    projectPath: Library\metadata\94\9466e99bc691294498326f17f42f129c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: C:\Unity\Planet\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    fullPath: C:\Unity\Planet\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9.info
+    fullPath: C:\Unity\Planet\Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9.info
+    projectPath: Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    fullPath: C:\Unity\Planet\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    fullPath: C:\Unity\Planet\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a1\a14584893f3906a40b1cec14417f8bf1
+    fullPath: C:\Unity\Planet\Library\metadata\a1\a14584893f3906a40b1cec14417f8bf1
+    projectPath: Library\metadata\a1\a14584893f3906a40b1cec14417f8bf1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a1\a14584893f3906a40b1cec14417f8bf1.info
+    fullPath: C:\Unity\Planet\Library\metadata\a1\a14584893f3906a40b1cec14417f8bf1.info
+    projectPath: Library\metadata\a1\a14584893f3906a40b1cec14417f8bf1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a2\a28da9987e4ff1b4ab7b06f4deaf5424
+    fullPath: C:\Unity\Planet\Library\metadata\a2\a28da9987e4ff1b4ab7b06f4deaf5424
+    projectPath: Library\metadata\a2\a28da9987e4ff1b4ab7b06f4deaf5424
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a2\a28da9987e4ff1b4ab7b06f4deaf5424.info
+    fullPath: C:\Unity\Planet\Library\metadata\a2\a28da9987e4ff1b4ab7b06f4deaf5424.info
+    projectPath: Library\metadata\a2\a28da9987e4ff1b4ab7b06f4deaf5424.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    fullPath: C:\Unity\Planet\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    fullPath: C:\Unity\Planet\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\bc\bc1816d3f58dfc447970480756b7e63b
+    fullPath: C:\Unity\Planet\Library\metadata\bc\bc1816d3f58dfc447970480756b7e63b
+    projectPath: Library\metadata\bc\bc1816d3f58dfc447970480756b7e63b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\bc\bc1816d3f58dfc447970480756b7e63b.info
+    fullPath: C:\Unity\Planet\Library\metadata\bc\bc1816d3f58dfc447970480756b7e63b.info
+    projectPath: Library\metadata\bc\bc1816d3f58dfc447970480756b7e63b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c0\c008cacd812358d4cb2eb4b6c9a4e14e
+    fullPath: C:\Unity\Planet\Library\metadata\c0\c008cacd812358d4cb2eb4b6c9a4e14e
+    projectPath: Library\metadata\c0\c008cacd812358d4cb2eb4b6c9a4e14e
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba.info
+    fullPath: C:\Unity\Planet\Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba.info
+    projectPath: Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482.info
+    fullPath: C:\Unity\Planet\Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482.info
+    projectPath: Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    fullPath: C:\Unity\Planet\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: C:\Unity\Planet\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c6\c6bebb382d3b224448fd25dc01dcff92
+    fullPath: C:\Unity\Planet\Library\metadata\c6\c6bebb382d3b224448fd25dc01dcff92
+    projectPath: Library\metadata\c6\c6bebb382d3b224448fd25dc01dcff92
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c6\c6bebb382d3b224448fd25dc01dcff92.info
+    fullPath: C:\Unity\Planet\Library\metadata\c6\c6bebb382d3b224448fd25dc01dcff92.info
+    projectPath: Library\metadata\c6\c6bebb382d3b224448fd25dc01dcff92.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    fullPath: C:\Unity\Planet\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    fullPath: C:\Unity\Planet\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    fullPath: C:\Unity\Planet\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    fullPath: C:\Unity\Planet\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\cc\cc1b50b5501f748da8bec762294d9136.info
+    fullPath: C:\Unity\Planet\Library\metadata\cc\cc1b50b5501f748da8bec762294d9136.info
+    projectPath: Library\metadata\cc\cc1b50b5501f748da8bec762294d9136.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    fullPath: C:\Unity\Planet\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    fullPath: C:\Unity\Planet\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    fullPath: C:\Unity\Planet\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: C:\Unity\Planet\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e.info
+    fullPath: C:\Unity\Planet\Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e.info
+    projectPath: Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\d8\d8ee6b2e7c8a40045b4645a8c821a8d4
+    fullPath: C:\Unity\Planet\Library\metadata\d8\d8ee6b2e7c8a40045b4645a8c821a8d4
+    projectPath: Library\metadata\d8\d8ee6b2e7c8a40045b4645a8c821a8d4
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    fullPath: C:\Unity\Planet\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    fullPath: C:\Unity\Planet\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e2\e250b49fe33aeea4aafa7f710e5c810b
+    fullPath: C:\Unity\Planet\Library\metadata\e2\e250b49fe33aeea4aafa7f710e5c810b
+    projectPath: Library\metadata\e2\e250b49fe33aeea4aafa7f710e5c810b
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    fullPath: C:\Unity\Planet\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+    fullPath: C:\Unity\Planet\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+    projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    fullPath: C:\Unity\Planet\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    fullPath: C:\Unity\Planet\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f8\f8643a69ad4fc314290dc2b2a9feee3d
+    fullPath: C:\Unity\Planet\Library\metadata\f8\f8643a69ad4fc314290dc2b2a9feee3d
+    projectPath: Library\metadata\f8\f8643a69ad4fc314290dc2b2a9feee3d
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: C:\Unity\Planet\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: C:\Unity\Planet\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: C:\Unity\Planet\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: C:\Unity\Planet\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+    fullPath: C:\Unity\Planet\Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+    projectPath: Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ProjectSettings.asset
+    fullPath: C:\Unity\Planet\Library\ProjectSettings.asset
+    projectPath: Library\ProjectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Unity\Planet\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ShaderCache.db
+    fullPath: C:\Unity\Planet\Library\ShaderCache.db
+    projectPath: Library\ShaderCache.db
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ShaderCache\2\239fb9b0af761179f61c7d99ee6cdfd9.bin
+    fullPath: C:\Unity\Planet\Library\ShaderCache\2\239fb9b0af761179f61c7d99ee6cdfd9.bin
+    projectPath: Library\ShaderCache\2\239fb9b0af761179f61c7d99ee6cdfd9.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\2\28a1646691500eebcb026dfe9a493e38.bin
+    fullPath: C:\Unity\Planet\Library\ShaderCache\2\28a1646691500eebcb026dfe9a493e38.bin
+    projectPath: Library\ShaderCache\2\28a1646691500eebcb026dfe9a493e38.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\4\4470c59dc29aefaad601f7c2ca9323d9.bin
+    fullPath: C:\Unity\Planet\Library\ShaderCache\4\4470c59dc29aefaad601f7c2ca9323d9.bin
+    projectPath: Library\ShaderCache\4\4470c59dc29aefaad601f7c2ca9323d9.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\6\6a49698708a627f63d0fab8974087d7a.bin
+    fullPath: C:\Unity\Planet\Library\ShaderCache\6\6a49698708a627f63d0fab8974087d7a.bin
+    projectPath: Library\ShaderCache\6\6a49698708a627f63d0fab8974087d7a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\6\6e2f727e542cde69225a4f1ee654b547.bin
+    fullPath: C:\Unity\Planet\Library\ShaderCache\6\6e2f727e542cde69225a4f1ee654b547.bin
+    projectPath: Library\ShaderCache\6\6e2f727e542cde69225a4f1ee654b547.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\8\85fb68114c96b70551a6d3bfdfced351.bin
+    fullPath: C:\Unity\Planet\Library\ShaderCache\8\85fb68114c96b70551a6d3bfdfced351.bin
+    projectPath: Library\ShaderCache\8\85fb68114c96b70551a6d3bfdfced351.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\a\a259682a000a523dc08ddd55f798e986.bin
+    fullPath: C:\Unity\Planet\Library\ShaderCache\a\a259682a000a523dc08ddd55f798e986.bin
+    projectPath: Library\ShaderCache\a\a259682a000a523dc08ddd55f798e986.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\a\a5104e9b3432111d58bac03bb829e3f2.bin
+    fullPath: C:\Unity\Planet\Library\ShaderCache\a\a5104e9b3432111d58bac03bb829e3f2.bin
+    projectPath: Library\ShaderCache\a\a5104e9b3432111d58bac03bb829e3f2.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\b7c8664d1a71bdec27cbe5b01ae5b583.bin
+    fullPath: C:\Unity\Planet\Library\ShaderCache\b\b7c8664d1a71bdec27cbe5b01ae5b583.bin
+    projectPath: Library\ShaderCache\b\b7c8664d1a71bdec27cbe5b01ae5b583.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\d36325655b27b20441fe681fd2065c24.bin
+    fullPath: C:\Unity\Planet\Library\ShaderCache\d\d36325655b27b20441fe681fd2065c24.bin
+    projectPath: Library\ShaderCache\d\d36325655b27b20441fe681fd2065c24.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\d61934df63a65cd6dab40eb2031106cc.bin
+    fullPath: C:\Unity\Planet\Library\ShaderCache\d\d61934df63a65cd6dab40eb2031106cc.bin
+    projectPath: Library\ShaderCache\d\d61934df63a65cd6dab40eb2031106cc.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\f17b5fc0a3320ddb5bdc031b3cca3e71.bin
+    fullPath: C:\Unity\Planet\Library\ShaderCache\f\f17b5fc0a3320ddb5bdc031b3cca3e71.bin
+    projectPath: Library\ShaderCache\f\f17b5fc0a3320ddb5bdc031b3cca3e71.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\f3d2083f0ea5d1e9c02f8f1335fe3958.bin
+    fullPath: C:\Unity\Planet\Library\ShaderCache\f\f3d2083f0ea5d1e9c02f8f1335fe3958.bin
+    projectPath: Library\ShaderCache\f\f3d2083f0ea5d1e9c02f8f1335fe3958.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\f5bb6a7f63d20284dc314c1c59670d26.bin
+    fullPath: C:\Unity\Planet\Library\ShaderCache\f\f5bb6a7f63d20284dc314c1c59670d26.bin
+    projectPath: Library\ShaderCache\f\f5bb6a7f63d20284dc314c1c59670d26.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Unity\Planet\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Planet.csproj
+    fullPath: C:\Unity\Planet\Planet.csproj
+    projectPath: Planet.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\AudioManager.asset
+    fullPath: C:\Unity\Planet\ProjectSettings\AudioManager.asset
+    projectPath: ProjectSettings\AudioManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\ClusterInputManager.asset
+    fullPath: C:\Unity\Planet\ProjectSettings\ClusterInputManager.asset
+    projectPath: ProjectSettings\ClusterInputManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\DynamicsManager.asset
+    fullPath: C:\Unity\Planet\ProjectSettings\DynamicsManager.asset
+    projectPath: ProjectSettings\DynamicsManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Unity\Planet\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: C:\Unity\Planet\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: C:\Unity\Planet\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\InputManager.asset
+    fullPath: C:\Unity\Planet\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\NavMeshAreas.asset
+    fullPath: C:\Unity\Planet\ProjectSettings\NavMeshAreas.asset
+    projectPath: ProjectSettings\NavMeshAreas.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\NetworkManager.asset
+    fullPath: C:\Unity\Planet\ProjectSettings\NetworkManager.asset
+    projectPath: ProjectSettings\NetworkManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\Physics2DSettings.asset
+    fullPath: C:\Unity\Planet\ProjectSettings\Physics2DSettings.asset
+    projectPath: ProjectSettings\Physics2DSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Unity\Planet\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Unity\Planet\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Unity\Planet\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: C:\Unity\Planet\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Unity\Planet\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\ghu-diffs\Player.cs_17b3c93.cs
+    fullPath: C:\Unity\Planet\Temp\ghu-diffs\Player.cs_17b3c93.cs
+    projectPath: Temp\ghu-diffs\Player.cs_17b3c93.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\TarGZ\github-for-unity-1.0.0.4809
+    fullPath: C:\Unity\Planet\Temp\TarGZ\github-for-unity-1.0.0.4809
+    projectPath: Temp\TarGZ\github-for-unity-1.0.0.4809
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-0ac15d6c38329344cb5b08eb334d7fb8
+    fullPath: C:\Unity\Planet\Temp\UnityTempFile-0ac15d6c38329344cb5b08eb334d7fb8
+    projectPath: Temp\UnityTempFile-0ac15d6c38329344cb5b08eb334d7fb8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-14d69035f32b5ce4fa96ec2ffd9858a2
+    fullPath: C:\Unity\Planet\Temp\UnityTempFile-14d69035f32b5ce4fa96ec2ffd9858a2
+    projectPath: Temp\UnityTempFile-14d69035f32b5ce4fa96ec2ffd9858a2
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-4d3c11a6b8afb6d45a4a08327a0b7959
+    fullPath: C:\Unity\Planet\Temp\UnityTempFile-4d3c11a6b8afb6d45a4a08327a0b7959
+    projectPath: Temp\UnityTempFile-4d3c11a6b8afb6d45a4a08327a0b7959
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-599d3d5afc0b2c444870e2bf0fa6b48e
+    fullPath: C:\Unity\Planet\Temp\UnityTempFile-599d3d5afc0b2c444870e2bf0fa6b48e
+    projectPath: Temp\UnityTempFile-599d3d5afc0b2c444870e2bf0fa6b48e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-68031857c4eb680468284853eb8a6f08
+    fullPath: C:\Unity\Planet\Temp\UnityTempFile-68031857c4eb680468284853eb8a6f08
+    projectPath: Temp\UnityTempFile-68031857c4eb680468284853eb8a6f08
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-8ec7e9d7f3a659e4bba384e55b970724
+    fullPath: C:\Unity\Planet\Temp\UnityTempFile-8ec7e9d7f3a659e4bba384e55b970724
+    projectPath: Temp\UnityTempFile-8ec7e9d7f3a659e4bba384e55b970724
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-b900fc790286dfe42b15e1ce934842fc
+    fullPath: C:\Unity\Planet\Temp\UnityTempFile-b900fc790286dfe42b15e1ce934842fc
+    projectPath: Temp\UnityTempFile-b900fc790286dfe42b15e1ce934842fc
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-c76c88f23e3423b4ebabd99cce8de87f
+    fullPath: C:\Unity\Planet\Temp\UnityTempFile-c76c88f23e3423b4ebabd99cce8de87f
+    projectPath: Temp\UnityTempFile-c76c88f23e3423b4ebabd99cce8de87f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-cf82b7b600b7da641ae803490b45b9dc
+    fullPath: C:\Unity\Planet\Temp\UnityTempFile-cf82b7b600b7da641ae803490b45b9dc
+    projectPath: Temp\UnityTempFile-cf82b7b600b7da641ae803490b45b9dc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e48c942be1134e64f9ac06651d691d81
+    fullPath: C:\Unity\Planet\Temp\UnityTempFile-e48c942be1134e64f9ac06651d691d81
+    projectPath: Temp\UnityTempFile-e48c942be1134e64f9ac06651d691d81
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityTempFile-ecf4dfd43a9fe4a4cb9c40359f5c012d
+    fullPath: C:\Unity\Planet\Temp\UnityTempFile-ecf4dfd43a9fe4a4cb9c40359f5c012d
+    projectPath: Temp\UnityTempFile-ecf4dfd43a9fe4a4cb9c40359f5c012d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-f5b218388d1a5ff45b4cb478fdf32886
+    fullPath: C:\Unity\Planet\Temp\UnityTempFile-f5b218388d1a5ff45b4cb478fdf32886
+    projectPath: Temp\UnityTempFile-f5b218388d1a5ff45b4cb478fdf32886
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-f9aa9979da869564e8d5bdf5de1f707d
+    fullPath: C:\Unity\Planet\Temp\UnityTempFile-f9aa9979da869564e8d5bdf5de1f707d
+    projectPath: Temp\UnityTempFile-f9aa9979da869564e8d5bdf5de1f707d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-fda049fb50d11ca4c9339ebea630a4b5
+    fullPath: C:\Unity\Planet\Temp\UnityTempFile-fda049fb50d11ca4c9339ebea630a4b5
+    projectPath: Temp\UnityTempFile-fda049fb50d11ca4c9339ebea630a4b5
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Temp\UnityVS_obj\Debug\Planet.csproj.CoreCompileInputs.cache
+    fullPath: C:\Unity\Planet\Temp\UnityVS_obj\Debug\Planet.csproj.CoreCompileInputs.cache
+    projectPath: Temp\UnityVS_obj\Debug\Planet.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityVS_obj\Debug\Planet.csprojAssemblyReference.cache
+    fullPath: C:\Unity\Planet\Temp\UnityVS_obj\Debug\Planet.csprojAssemblyReference.cache
+    projectPath: Temp\UnityVS_obj\Debug\Planet.csprojAssemblyReference.cache
+    originalPath: 
+    status: 1
+    staged: 0
