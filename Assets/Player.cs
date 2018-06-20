@@ -16,7 +16,16 @@ public class Player : MonoBehaviour {
 
 		//三角関数を使用して角度方向で現在位置を求める
 		this.transform.position = new Vector3(-Mathf.Sin (this.transform.eulerAngles.z * Mathf.Deg2Rad) * playerPosFix
-			,Mathf.Cos (this.transform.eulerAngles.z * Mathf.Deg2Rad) * playerPosFix
+			,Mathf.Cos (this.transform.eulerAngles.z * Mathf.Deg2Rad) * playerPosFix + playerPosJ
             , 0);
+
+        if (Input.GetKey(KeyCode.Space))
+        {
+            playerPosJ = 0.5f;
+        }
+        else
+        {
+
+        }
     }
 }
