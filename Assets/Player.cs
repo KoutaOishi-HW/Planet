@@ -16,8 +16,9 @@ public class Player : MonoBehaviour {
 
 		//三角関数を使用して角度方向で現在位置を求める
 		this.transform.position = new Vector3(-Mathf.Sin (this.transform.eulerAngles.z * Mathf.Deg2Rad) * playerPosFix
-			,Mathf.Cos (this.transform.eulerAngles.z * Mathf.Deg2Rad) * playerPosFix + playerPosJ
+			,Mathf.Cos (this.transform.eulerAngles.z * Mathf.Deg2Rad) * playerPosFix
             , 0);
+<<<<<<< HEAD
 
         if (Input.GetKey(KeyCode.Space))
         {
@@ -27,5 +28,7 @@ public class Player : MonoBehaviour {
         {
             //test
         }
+=======
+>>>>>>> parent of 17b3c93... Revert "Player1"
     }
 }
