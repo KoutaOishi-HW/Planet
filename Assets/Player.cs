@@ -18,8 +18,6 @@ public class Player : MonoBehaviour {
 		this.transform.position = new Vector3(-Mathf.Sin (this.transform.eulerAngles.z * Mathf.Deg2Rad) * playerPosFix
 			,Mathf.Cos (this.transform.eulerAngles.z * Mathf.Deg2Rad) * playerPosFix
             , 0);
-<<<<<<< HEAD
-
         if (Input.GetKey(KeyCode.Space))
         {
             playerPosJ = 0.5f;
@@ -28,7 +26,5 @@ public class Player : MonoBehaviour {
         {
             //test
         }
-=======
->>>>>>> parent of 17b3c93... Revert "Player1"
     }
 }
