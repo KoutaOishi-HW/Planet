@@ -22,6 +22,13 @@ public class Player : MonoBehaviour {
         {
             playerPosJ = 0.5f;
         }
+
+
+
+
+
+
+
         else
         {
             //test
